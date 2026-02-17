@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+venv/
+
+# Editor/OS junk
+.DS_Store
+.vscode/
+.idea/
+
+# Logs / runtime output
+*.log
+logs/
+*.jsonl
+
+# Databases / local state
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets / env / local config
+.env
+config.yaml
+config.yml
+
+# Backup / temp files
+*.bak
+*.bak2
+*~
